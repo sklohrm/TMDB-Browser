@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TMDB-browser/1.0.0": {
+        "runtime": {
+          "TMDB-browser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TMDB-browser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/sklohrm/Developer/TMDB-browser/bin/Debug/net9.0/TMDB-browser
+/Users/sklohrm/Developer/TMDB-browser/bin/Debug/net9.0/TMDB-browser.deps.json
+/Users/sklohrm/Developer/TMDB-browser/bin/Debug/net9.0/TMDB-browser.runtimeconfig.json
+/Users/sklohrm/Developer/TMDB-browser/bin/Debug/net9.0/TMDB-browser.dll
+/Users/sklohrm/Developer/TMDB-browser/bin/Debug/net9.0/TMDB-browser.pdb
+/Users/sklohrm/Developer/TMDB-browser/obj/Debug/net9.0/TMDB-browser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sklohrm/Developer/TMDB-browser/obj/Debug/net9.0/TMDB-browser.AssemblyInfoInputs.cache
+/Users/sklohrm/Developer/TMDB-browser/obj/Debug/net9.0/TMDB-browser.AssemblyInfo.cs
+/Users/sklohrm/Developer/TMDB-browser/obj/Debug/net9.0/TMDB-browser.csproj.CoreCompileInputs.cache
+/Users/sklohrm/Developer/TMDB-browser/obj/Debug/net9.0/TMDB-browser.dll
+/Users/sklohrm/Developer/TMDB-browser/obj/Debug/net9.0/refint/TMDB-browser.dll
+/Users/sklohrm/Developer/TMDB-browser/obj/Debug/net9.0/TMDB-browser.pdb
+/Users/sklohrm/Developer/TMDB-browser/obj/Debug/net9.0/TMDB-browser.genruntimeconfig.cache
+/Users/sklohrm/Developer/TMDB-browser/obj/Debug/net9.0/ref/TMDB-browser.dll
