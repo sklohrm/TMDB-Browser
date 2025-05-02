@@ -10,8 +10,6 @@ Console Application for searching movies using TMDB API.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## About
