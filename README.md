@@ -1,4 +1,4 @@
-# Project Name
+# TMDB Browser
 
 Console Application for searching movies using TMDB API.
 
